@@ -1,8 +1,9 @@
 body {
-    background-image: url(./img/109411116_chile2.webp);
-    background-size: 200%;
+    background-image: url(./img/2pmz.jpg);
+    background-size: 120%;
     margin: 0;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
+    width: 100%;
 
 }
 
@@ -10,11 +11,12 @@ body {
 .pronto {
     text-align: center;
     color: white;
-    background-color: red;
+    background-color: rgba(0, 0, 0, 0.5);
     margin-top: 10rem;
     width: 100%;
     padding-top: 2rem;
     padding: 2rem;
     padding-top: 1rem;
+    font-weight: bold;
     
 }
