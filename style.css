@@ -1,0 +1,20 @@
+body {
+    background-image: url(./img/109411116_chile2.webp);
+    background-size: 200%;
+    margin: 0;
+    background-repeat: repeat;
+
+}
+
+
+.pronto {
+    text-align: center;
+    color: white;
+    background-color: red;
+    margin-top: 10rem;
+    width: 100%;
+    padding-top: 2rem;
+    padding: 2rem;
+    padding-top: 1rem;
+    
+}
