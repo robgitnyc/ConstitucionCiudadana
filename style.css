@@ -12,7 +12,11 @@ body {
     padding-top: 2rem;
     padding: 2rem;
     padding-top: 1rem;
-    font-weight: bold;
 
     
+}
+
+h1 {
+    font-weight: bold;
+
 }
